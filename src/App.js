@@ -14,15 +14,15 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Edit <code>the code</code> for more awesomeness.
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="http://www.vintra.be/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Jump to Vintra!
           </a>
         </header>
       </div>
